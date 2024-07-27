@@ -1,5 +1,18 @@
 # 💫 About Me:
-¡Hola a todos! 👋<br>¡Bienvenidos a mi perfil de GitHub! Soy Diego Higuita, un programador joven proveniente de la ciudad de Medellín, Colombia. <br>Estoy decidido a destacarme en el mundo de la programación y dejar una marca positiva en la comunidad tecnológica.<br><br>Desde hace varios años,he estado inmerso en el fascinante mundo de la tecnología, y mi pasión por la programación sigue creciendo día a día. <br>Soy un entusiasta de la resolución de problemas y me encanta enfrentar nuevos desafíos que me permitan expandir mis habilidades y conocimientos.<br><br>Estoy constantemente buscando oportunidades para aprender y mejorar mis habilidades técnicas. <br>Me considero un aprendiz ávido, siempre dispuesto a sumergirme en nuevos proyectos y tecnologías emocionantes. Creo firmemente en el poder de la colaboración y estoy ansioso por contribuir en proyectos innovadores que impulsen el cambio y la creatividad.<br><br>Mi objetivo es convertirme en un desarrollador altamente competente y versátil, capaz de enfrentar cualquier desafío con confianza y determinación.<br>Estoy emocionado de formar parte de una comunidad dinámica de desarrolladores y espero poder colaborar con mentes brillantes de todo el mundo.<br><br>¡Gracias por visitar mi perfil!
+Hello everyone! 👋
+Welcome to my GitHub profile! I am Diego Higuita, a young programmer from the city of Medellín, Colombia.
+I am determined to stand out in the world of programming and leave a positive mark in the technology community.
+
+For several years now, I have been immersed in the fascinating world of technology, and my passion for programming continues to grow day by day.
+I am a problem-solving enthusiast and I love facing new challenges that allow me to expand my skills and knowledge.
+
+I am constantly looking for opportunities to learn and improve my technical skills.
+I consider myself an avid learner, always willing to dive into new projects and exciting technologies. I firmly believe in the power of collaboration and am eager to contribute to innovative projects that drive change and creativity.
+
+My goal is to become a highly competent and versatile developer, capable of facing any challenge with confidence and determination.
+I'm excited to be part of a dynamic community of developers and look forward to collaborating with brilliant minds from around the world.
+
+Thank you for visiting my profile!
 
 
 ## 🌐 Socials:
